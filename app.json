@@ -1,0 +1,12 @@
+{
+  "name": "open_spot",
+  "displayName": "open_spot",
+  "expo": {
+    "name": "open_spot",
+    "slug": "open_spot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
